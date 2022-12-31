@@ -38,32 +38,25 @@ const nguyentien6296= {
 <a href="https://www.w3schools.in/web-hosting/introduction" target="_blank"><img style="margin: 10px" src="https://www.shecodes.io/assets/logos/technologies/hosting-d912d77599fd9aab7aab62e8ee20cab5e69c1c03cb87b8a38f735f49b3609758.png" alt="Hosting" height="50" /></a>  
 <a href="https://www.w3schools.com/html/html_responsive.asp" target="_blank"><img style="margin: 10px" src="https://www.shecodes.io/assets/logos/technologies/responsive-bb3ce4b4a67108b0c547648b0b9da19711e8a30cb94626ebe2cf80697119e807.png" alt="Responsive" height="50" /></a>   
 </div>
-</td><td valign="top" width="33%" align="center">
+</td><td valign="top" width="25%" align="center">
 ### Backend  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%" align="center">
-
-
+</td><td valign="top" width="25%" align="center">
 ### DevOps
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-
+</td><td valign="top" width="25%" align="center">
 ### Data  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" alt="SQL" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
-
 </td></tr></table>  
-
 <br/>  
-
-
 ## Connect with me  
 <p align="center">
 <a href="https://www.linkedin.com/in/nguyentien6296/">
@@ -73,11 +66,7 @@ const nguyentien6296= {
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
 </p>  
-  
-
 <br/>  
-
-
 ## Github Stats  
 
 <div align="center">
