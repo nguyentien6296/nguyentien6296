@@ -4,7 +4,7 @@
 <div align="center"> 🦋🦋🦋 Caroline Nguyen 🐶 Frontend Developer </div> 
 
 <div align="center">
-<img src="[https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif](https://i.gifer.com/origin/2f/2fbf66802f50c0da6d59732878686c4a.gif)" align="center" style="width: 80%" />
+<img src="https://i.gifer.com/origin/2f/2fbf66802f50c0da6d59732878686c4a.gif" align="center"  />
 </div>
 <br>
 <br>
