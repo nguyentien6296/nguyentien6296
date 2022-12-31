@@ -24,16 +24,7 @@ const nguyentien6296= {
       }
 };
 ```
-
-
-
-
 <br/>  
-
-
-              
-
-
 ## My Skill Set  
 <table align="center"><tr><td valign="top" width="33%" align="center" >
   
@@ -94,44 +85,9 @@ const nguyentien6296= {
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aslinurtolga&theme=nightowl&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslinurtolga&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
-
-
-
-
 <br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aslinurtolga&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
-
-
 <br />
-
-----
-
-
-🌙 I'm Aslinur 🚀 Frontend Developer
-
-
-
-- 👋 Hi, I’m Caroline. 
-- 👀 I’m interested in Tourism, Coding, Data. 
-- 🌱 I’m currently learning on SheCodes.io. 
-- 💞️ I’m looking to collaborate on your project, where I can enhance my knowledge and skills. 
-- 📫 How to reach me nguyentien6296@gmail.com
-- const aslinurtolga= {
-    pronouns: "She" | "Her",
-    located_in: Istanbul/Turkiye,
-    current_job: Frontend Developer,
-    technologies: {
-          frontEnd: {
-              js: ["React"],
-              css: ["bootstrap", "sass", "tailwind"]
-          },
-          backEnd: ["Python"],
-          databases: ["Sql"]
-      }
-};
