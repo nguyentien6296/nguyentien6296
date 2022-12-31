@@ -25,7 +25,7 @@ const nguyentien6296= {
 ```
 <br/>  
 ## My Skill Set  
-<table align="center"><tr><td valign="top" width="33%" align="center" >
+<table align="center"><tr><td valign="top" width="25%" align="center" >
   
 ### Frontend  
 <div align="center">  
@@ -36,24 +36,25 @@ const nguyentien6296= {
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://www.shecodes.io/assets/logos/technologies/javascript-66f17d0db91bf422711333a5899e3ce6e952071c8c7b747021029a41fbf42cd7.png" alt="JavaScript" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/API" target="_blank"><img style="margin: 10px" src="https://www.shecodes.io/assets/logos/technologies/api-2c51a0e435d71436f197dbc33a1c52716491a482f87c9d229504bbeada6a516c.png" alt="API" height="50" /></a>  
 <a href="https://www.w3schools.in/web-hosting/introduction" target="_blank"><img style="margin: 10px" src="https://www.shecodes.io/assets/logos/technologies/hosting-d912d77599fd9aab7aab62e8ee20cab5e69c1c03cb87b8a38f735f49b3609758.png" alt="Hosting" height="50" /></a>  
-<a href="https://www.w3schools.com/html/html_responsive.asp" target="_blank"><img style="margin: 10px" src="https://www.shecodes.io/assets/logos/technologies/responsive-bb3ce4b4a67108b0c547648b0b9da19711e8a30cb94626ebe2cf80697119e807.png" alt="Responsive" height="50" /></a>  
-<a href="" target="_blank"><img style="margin: 10px" src="https://www.shecodes.io/assets/logos/technologies/seo-e96310672f07334067bdecbdccfe65c39d5a178e886a8682bf9ae0555f11d529.png" alt="SEO" height="50" /></a>  
+<a href="https://www.w3schools.com/html/html_responsive.asp" target="_blank"><img style="margin: 10px" src="https://www.shecodes.io/assets/logos/technologies/responsive-bb3ce4b4a67108b0c547648b0b9da19711e8a30cb94626ebe2cf80697119e807.png" alt="Responsive" height="50" /></a>   
 </div>
 </td><td valign="top" width="33%" align="center">
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%" align="center">
 
 
-### DevOps  
+### DevOps
 <div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+
+### Data  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" alt="SQL" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
