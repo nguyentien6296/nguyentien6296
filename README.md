@@ -65,7 +65,7 @@ const nguyentien6296= {
 
 ## Connect with me  
 <p align="center">
-<a href="https://www.linkedin.com/in/aslinurtolga/">
+<a href="https://www.linkedin.com/in/nguyentien6296/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://twitter.com/aslinurtolga">
