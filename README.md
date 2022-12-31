@@ -2,13 +2,11 @@
   <img src="https://images.unsplash.com/photo-1543332164-6e82f355badc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80" width=600/>
 </p>
 <div align="center"> 🦋🦋🦋 Caroline Nguyen 🐶 Frontend Developer </div> 
-
 <div align="center">
-<img src="https://i.gifer.com/origin/2f/2fbf66802f50c0da6d59732878686c4a.gif" align="center"  />
+<img src="https://i.gifer.com/origin/2f/2fbf66802f50c0da6d59732878686c4a.gif" align="center" width=400 />
 </div>
 <br>
 <br>
-
 ```javascript
 const nguyentien6296= {
     pronouns: "She" | "Her",
