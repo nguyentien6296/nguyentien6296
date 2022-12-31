@@ -54,9 +54,7 @@ const nguyentien6296= {
   
 ### Data  
 <div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" alt="SQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" alt="SQL" height="50" /></a>   
 </div>
 </td></tr></table>  
 <br/>  
@@ -74,14 +72,14 @@ const nguyentien6296= {
 ## Github Stats  
 
 <div align="center">
-  <a href="https://github.com/aslinurtolga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aslinurtolga&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aslinurtolga&theme=nightowl&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslinurtolga&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+  <a href="https://github.com/nguyentien6296">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nguyentien6296&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentien6296&theme=nightowl&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentien6296&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
 <br/>  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=aslinurtolga&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=nguyentien6296&&style=flat-square" align="center" />
 </div>  
 <br/>  
 <br />
