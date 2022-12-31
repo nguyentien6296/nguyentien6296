@@ -10,14 +10,14 @@
 <br>
 
 ```javascript
-const aslinurtolga= {
+const nguyentien6296= {
     pronouns: "She" | "Her",
-    located_in: Istanbul/Turkiye,
+    located_in: Ho Chi Minh City/Vietnam,
     current_job: Frontend Developer,
     technologies: {
           frontEnd: {
               js: ["React"],
-              css: ["bootstrap", "sass", "tailwind"]
+              css: ["bootstrap"]
           },
           backEnd: ["Python"],
           databases: ["Sql"]
